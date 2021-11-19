@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arenixx
+- 👀 I’m interested in learning and developing in Python
+- 🌱 I’m currently learning Python 3
+- 💞️ I’m looking to collaborate on anything Python related.
+- 📫 How to reach me - Please do email me on warframenix@hotmail.com
